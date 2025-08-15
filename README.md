@@ -18,7 +18,7 @@ This repo is the culmination of 5 research summers and one honours thesis. Some 
 - I perform these experiments on the Linear Madden Problem and the Kopteva problem.
 - These notebooks comprise my best results for the summer.
 
-  Folder: FinalDefcon_EndofSummerWork
+**Folder: FinalDefcon_EndofSummerWork**
   - It is in this folder where I have a single notebook that I worked on on the last day of work.
   - In this notebook, I implement the work I did in 'Folder: alpha_scaledby_epsilon_tests' within a Defcon setting.
   - I did not get to finish this work. We think we need to work on the construction of the norm used in the deflation operator and maybe experiment with the power and shift parameters for the deflation operator.
